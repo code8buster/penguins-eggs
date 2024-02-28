@@ -24,7 +24,7 @@ tmp/*
 # LIVE STUFFS: files depending on live
 etc/udev/rules.d/70-persistent-cd.rules
 etc/udev/rules.d/70-persistent-net.rules
-lib/live/*
+lib/live/ # almeno per bionic serve
 live
 persistence.conf
 var/lib/live/config/*
